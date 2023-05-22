@@ -1,3 +1,4 @@
+#! HIDE-ERRORS
 (1agerace1) dune : martian alice
 (abbadingo) martian : 1984
 (artfuldodge2) 1984 : dune
